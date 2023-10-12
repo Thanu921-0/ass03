@@ -1,0 +1,6 @@
+#given num is postive or not
+n=int(input("enter the value"))
+if(n>0):
+    print("postive number")
+else:
+    print("given num is not postive")
